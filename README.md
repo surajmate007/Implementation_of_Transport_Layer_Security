@@ -28,4 +28,4 @@ e) Thanks to Prof. Vireshwar Kumar Sir for clearing all our basics required to i
 code.
 
 
-For more information regarding this project please check the Solution_Description_1.pdf and Solution_Description_2.pdf files.
+For more information regarding this project please check the readme-problem-1.pdf and readme-problem-2.pdf files.
